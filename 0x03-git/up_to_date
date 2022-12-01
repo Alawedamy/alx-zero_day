@@ -1,1 +1,4 @@
-up to date file
+git add up_to_date
+git commit -m "(message: “How to be up to date in git”)"
+git push
+
